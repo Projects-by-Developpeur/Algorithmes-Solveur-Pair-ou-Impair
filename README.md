@@ -17,8 +17,8 @@ Ce programme vérifie si un nombre donné est **pair** ou **impair** en utilisan
    - Sortie : 7 est un nombre impair.  
 
 3. **Exemple 3** :  
-  - Entrée : 0  
-  - Sortie : 0 est un nombre pair.  
+   - Entrée : 0  
+   - Sortie : 0 est un nombre pair.  
 
 
 ## Auteur
